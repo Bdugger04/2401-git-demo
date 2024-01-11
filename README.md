@@ -8,4 +8,4 @@ WHen I make changes to my code:
 1. Save the file(s) with the changes 
 2. `git add .` - add all files to be commeted 
 3. `git commit -m 'Message about file changes'` - saves the commit to be sent to github
-4. `git push to origin main` - sending the changes to github (origin) on the main branch
+4. `git push origin main` - sending the changes to github (origin) on the main branch
